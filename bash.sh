@@ -1,1 +1,1 @@
-echo "<h1> test bash + jenkins CICD <h1>" >index.html
+echo "<h1> TEST CI CD MENGGUNAKAN JENKINS <h1>" >index.html
